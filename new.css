@@ -1,0 +1,127 @@
+body{ 
+	background-image: url(media/new.jpg);
+}
+
+#line {
+	border: 20px solid black;
+  	border-radius: 1px;
+}
+#line3	{
+	width: 1100px;
+	margin-right: 100%; 
+	margin-top: 10px;
+}
+#line4 {
+	width: 1100px;
+	margin-right: 100%; 
+	margin-top: 10px;
+}
+#line5 {
+	width: 1100px;
+	margin-right: 100%; 
+	margin-top: -10px;
+}
+#line6 {
+	width: 1100px;
+	margin-right: 100%; 
+	margin-top: 10px;
+}
+#line-7 {
+	margin-top: -2%;
+}
+#line7 {
+	margin-top: -3%;
+	margin-bottom: -2%;
+}
+#line8 {
+	margin-top: -3%;
+	margin-bottom: -2%;
+}
+#lable {
+	margin-top: 3px;
+}
+#lable1 {
+	margin-top: 2%;
+}
+#halder {
+	text-align: left;
+	margin-top: -20px;
+	margin-bottom: -8px;
+	margin-left: 100px;
+}
+#leftstr, #rightstr {
+    float: bottom;  
+	width: 50%; 
+	padding-left: 30%;
+}
+#rightstr {
+	text-align: top; 
+}
+.center {
+	width: 1700px;
+	height: 900px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.wrapper {
+    max-width: 1700px;
+	margin: 0 auto; 
+	width: 100%;
+	padding-top: 20px;
+}
+.announcement {
+	padding-bottom: 80px;
+	margin-top: 2%;
+	max-width: 1700px;
+	width: 1700px;
+	height: 17px;
+}
+.News {
+	width: 1100px;
+}
+.line2	{
+	width: 1100px;
+	margin-right: 100%; 
+	margin-top: -10px;
+}
+.side-bar {
+	margin-left: 66%;
+	margin-top: -585px;
+	width: 34%;
+	height: 91%; 
+}
+.side-lable {
+	text-align: center;
+}
+#redact {
+	margin-top: 9px;
+	padding-top: -3%;
+}
+#reklama {
+	text-align: center;
+}
+.css-login {
+	text-align: center;
+	margin-left: 40%;
+	margin-right: 39%;
+	margin-top: 10%;
+}
+#line10 {
+	margin-bottom: 10px;
+}
+#text-css {
+	margin-bottom: 10px;
+}
+.input-css {
+	padding-top: 20px;
+	padding-right: 56%;
+	border-style: outset;
+}
+#button {
+	margin-top: 10px;
+	width: 20px;
+	border-block-end-style: none;
+	text-align: center;
+}
